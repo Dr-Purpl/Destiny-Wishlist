@@ -18,8 +18,11 @@ dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391,23
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417,2357520979
 
 
-// Some General Filters
+// Some General Good Filters
 dimwishlist:item=-69420&perks=3032599245,3300816228#notes:Auto-load + Blinding = Consider keeping
 dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Subsistence + Rampage = Consider keeping
 dimwishlist:item=-69420&perks=3032599245,960810156#notes:Super Blinding
 
+// Some General Bad Filters
+dimwishlist:item=-69420&perks=1820235745,1015611457
+dimwishlist:item=-69420&perks=1820235745,2458213969
