@@ -9,7 +9,7 @@ dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Subsistence + Rampage 
 dimwishlist:item=-69420&perks=3032599245,960810156#notes:Super Blinding
 
 // Deafening Whisper
-//notes:Dr_Purple : Ambitious assassin is most important. Doubles magazine size with 1 kill making add clear a breeze.
+//notes:Dr_Purple (???  ???): Ambitious assassin is most important. Doubles magazine size with 1 kill making add clear a breeze.
 dimwishlist:item=981718087&perks=2010801679,4071163871
 dimwishlist:item=981718087&perks=2010801679,3592538738
 
