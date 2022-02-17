@@ -3,6 +3,12 @@ description:These are the rolls I love/Hope to hold one day
 https://destinytracker.com/destiny-2/db/items/3849810018?perks=474269988,3525010810,3032599245,3300816228,960810156,3761187796,2323986101,186337601,0,2285418970#notes:Great PVE Utility Autoloading+Blinding is the must have all else is nice to have.
 dimwishlist:item=-69420&perks=3032599245,3300816228#notes:Auto-load + Blinding = Consider keeping
 dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Subsistence + Rampage = Consider keeping
-dimwishlist:item=981718087&perks=2010801679,&#notes:Amazing add clear
 dimwishlist:item=-69420&perks=3032599245,960810156#notes:Super Blinding
+// Deafening Whisper
+//notes:Dr_Purple (???  ???): Ambitious assassin is most important. Doubles magazine size with 1 kill making add clear a breeze.
+dimwishlist:item=981718087&perks=2010801679,4071163871
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+
+
 
