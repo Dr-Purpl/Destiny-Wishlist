@@ -24,5 +24,5 @@ dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Subsistence + Rampage 
 dimwishlist:item=-69420&perks=3032599245,960810156#notes:Super Blinding
 
 // Some General Bad Filters
-dimwishlist:item=-69420&perks=1820235745,1015611457
-dimwishlist:item=-69420&perks=1820235745,2458213969
+dimwishlist:item=69420&perks=1820235745,1015611457
+dimwishlist:item=69420&perks=1820235745,2458213969
