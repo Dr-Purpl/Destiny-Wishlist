@@ -4,3 +4,5 @@ https://destinytracker.com/destiny-2/db/items/3849810018?perks=474269988,3525010
 dimwishlist:item=-69420&perks=3032599245,3300816228&#notes:Auto-load + Blinding = Consider keeping
 dimwishlist:item=-69420&perks=1820235745,3425386926&#notes:Subsistence + Rampage = Consider keeping
 dimwishlist:item=1184264122&perks=2010801679,&#notes:Amazing add clear
+dimwishlist:item=1184264122&perks=2010801679,3592538738&#notes:Amazing add clear
+dimwishlist:item=1184264122&perks=2010801679,4071163871&#notes:Amazing add clear
